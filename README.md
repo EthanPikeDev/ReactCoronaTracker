@@ -1,25 +1,27 @@
 # COVID-19 Tracker
 
-# Realtime Chat Application
+
 
 COVID-19 Tracker is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
 
-<a href="https://tracking.gitads.io/?repo=project_corona_tracker">
- <img src="https://images.gitads.io/project_corona_tracker" alt="GitAds"/> 
-</a>
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+### [Live Preview](https://ethancoronatracker.herokuapp.com/)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+![DemoGIF](https://s7.gifyu.com/images/corona2.gif)
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+# How to use the app:
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+- Simply load the page and view the global statistics
 
-API used: https://covid19.mathdro.id/api
+- Navigate to any country by using the dropdown menu to view stats for specific countries
 
-Setup:
-- run ```npm i && npm start```
+# How to set up the project on your local machine
+
+1. Clone the repository to your local machine
+
+2. Navigate into the folder
+
+3. Run "npm install" to install the node modules and dependencies
+
+4. Run "npm start" to start the project on http://localhost:3000/
